@@ -10,6 +10,7 @@
 ¿Cómo cambió el discurso?
 ¿Cómo se presenta la toma del palacio de justicia los días posteriores al acontecimiento?
 
+https://github.com/danielagomez1995/toma-palacio-de-justicia/blob/master/pic%202.jpg
 
 # Hallazgos 
 
