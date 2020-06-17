@@ -1,6 +1,6 @@
 
 # Toma palacio de Justicia
-![Imagen 1](https://github.com/danielagomez1995/toma-palacio-de-justicia/blob/master/pic1.jpeg)
+![Imagen 1](https://github.com/danielagomez1995/toma-palacio-de-justicia/blob/master/pic5.jpeg?raw=true)
 
 # Preguntas de investigación: 
 
